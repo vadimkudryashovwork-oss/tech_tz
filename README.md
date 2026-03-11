@@ -26,8 +26,8 @@
 ### Установка и dev-режим
 
 ```bash
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 
 Приложение откроется на `http://localhost:5173` (или другом порту Vite).
@@ -35,8 +35,8 @@ npm run dev
 ### Сборка и предпросмотр
 
 ```bash
-npm run build
-npm run preview
+yarn run build
+yarn run preview
 ```
 
 ### Демо-логин
@@ -196,12 +196,12 @@ itguru/
 
 | Команда           | Описание                              |
 |-------------------|---------------------------------------|
-| `npm run dev`     | Запуск dev-сервера Vite               |
-| `npm run build`   | Production-сборка                     |
-| `npm run preview` | Предпросмотр собранного приложения    |
-| `npm run lint`    | Запуск ESLint                         |
-| `npm run format`  | Форматирование Prettier               |
-| `npm run format:check` | Проверка форматирования          |
+| `yarn run dev`     | Запуск dev-сервера Vite               |
+| `yarn run build`   | Production-сборка                     |
+| `yarn run preview` | Предпросмотр собранного приложения    |
+| `yarn run lint`    | Запуск ESLint                         |
+| `yarn run format`  | Форматирование Prettier               |
+| `yarn run format:check` | Проверка форматирования          |
 
 ---
 
